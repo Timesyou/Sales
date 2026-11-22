@@ -1,7 +1,5 @@
 # Sales
 
-<badge-placeholder>
-
 **Repository status: placeholder — not a completed portfolio project.**
 
 The current `main` branch contains only this README, a `.gitignore`, and a license. It does not contain a sales dataset, SQL analysis, Python code, dashboard, or automated tests.
